@@ -1,3 +1,4 @@
-the burger builder
+BurgerBuilder
 
-App by Hariharan
+React App converted into PWA.
+Test App*
